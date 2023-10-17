@@ -1,0 +1,25 @@
+body{
+    background-color: khaki;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+iframe{
+    with:90%;
+    height:500px;
+    border:none;
+    overflow:hidden;
+    margin:0 auto;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(243, 10, 107);
+    margin-top: 50px;
+
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color:rgb(253, 99, 137);
+    margin-top:50px;
+}
