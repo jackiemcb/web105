@@ -1,0 +1,29 @@
+:root {
+    --primary-color: +#403941;
+    --link-hover-color: #ff006a; 
+    --link-padding: 10px;
+}
+
+body {
+    background-color: #fdaaaa;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size:xx-large;
+    font-family:monospace;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    padding: var(--link-padding);
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+

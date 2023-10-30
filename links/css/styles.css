@@ -1,0 +1,23 @@
+body{
+    background-color: palevioletred;
+    color:bisque;
+    font-family:Arial, Helvetica, sans-serif;
+}
+nav h1{
+
+
+    text-align: center;}
+nav a{
+    font-size: larger;
+    color:darkorchid;
+    background-color:ivory;
+    padding:10px 20px;
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:30px;
+    border-radius:20px;
+    border:2px solid purple;
+    }
+nav a:hover{
+    color:palevioletred;
+    background:powderblue;}

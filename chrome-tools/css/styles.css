@@ -1,0 +1,44 @@
+body{
+    font-family:emoji;
+    background:#92c457;
+    color:#f14d10;
+    font-size:large;
+}
+img{
+    with:30%;
+    display:block;
+    margin:20px auto;
+    border:3px solid magenta;
+    border-radius:40%;
+    padding:20px;}
+   h1,h2{
+       color:#a111b9;
+       font-family:cursive;
+ } 
+h1{
+    text-align:center;
+    
+}
+p{
+    color:beige;
+    font-family:fantasy;
+}
+ul{
+    list-style-type:disclosure-closed;
+    color:#13f2f2;
+    font-family:monospace;
+}
+ol{
+    list-style-type:square;
+    color:#FFEB3B;
+    font-family:sans-serif;
+}
+dt{
+    font-family:inherit;
+    color:brown;
+    font-weight:bolder;
+}
+dd{
+    font-family:math;
+    color:#0d2ddf;
+    font-weight:lighter;}
